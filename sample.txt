@@ -1,2 +1,2 @@
 hello this is 2nd file
-this is a line modified by m1
+this is a line modified by m2
